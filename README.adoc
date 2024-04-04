@@ -1,0 +1,5 @@
+= Diamond
+
+A C# port of carbide. Mostly for me to learn C# with.
+
+Instead of using https://click.palletsprojects.com/en/8.1.x/[Click], Diamond uses https://spectreconsole.net/[Spectre].

@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>  <!--https://learn.microsoft.com/en-us/dotnet/core/tutorials/top-level-templates#implicit-using-directives -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+### IDE ###
+.vscode/
+
+### .NET ###
+bin/
+obj/
